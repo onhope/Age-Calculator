@@ -67,6 +67,7 @@ console.log(box.innerText);
 <br> 
 
 ## 학습출처  
+- https://www.youtube.com/@JavaScriptKing
 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date#%EC%83%9D%EC%84%B1%EC%9E%90
 - https://www.w3schools.com/jsref/jsref_obj_date.asp
 - https://veggie-garden.tistory.com/5  
